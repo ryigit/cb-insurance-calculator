@@ -1,0 +1,13 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PhpCSFixerValidationInspection" enabled="true" level="ERROR" enabled_by_default="true" editorAttributes="ERRORS_ATTRIBUTES">
+      <scope name="Project Files" level="ERROR" enabled="true" editorAttributes="ERRORS_ATTRIBUTES">
+        <option name="CODING_STANDARD" value="Custom" />
+        <option name="CUSTOM_RULESET_PATH" value="$USER_HOME$/Mio/mio-universal/.php-cs-fixer.dist.php" />
+        <option name="ALLOW_RISKY_RULES" value="true" />
+      </scope>
+    </inspection_tool>
+    <inspection_tool class="PhpStanGlobal" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  </profile>
+</component>

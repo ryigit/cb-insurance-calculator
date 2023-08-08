@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Controller\\TypeControllerTest::testGetProductType":8,"Coolblue\\Interview\\Test\\Controller\\TypeControllerTest::testGetProductType":5},"times":{"Controller\\TypeControllerTest::testGetProductType":0.008,"Coolblue\\Interview\\Test\\Controller\\TypeControllerTest::testGetProductType":0.004}}
