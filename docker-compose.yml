@@ -5,7 +5,7 @@ services:
     platform: linux/x86_64
     container_name: interview_mysql
     environment:
-      MYSQL_DATABASE: 'coolblue'
+      MYSQL_DATABASE: 'products'
       MYSQL_USER: 'interview'
       MYSQL_PASSWORD: 'interview'
       MYSQL_ROOT_PASSWORD: 'root'

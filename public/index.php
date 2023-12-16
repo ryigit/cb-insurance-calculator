@@ -2,16 +2,16 @@
 
 require_once __DIR__ . '/../vendor/autoload.php';
 
-use Coolblue\Interview\Controller\TypeController;
-use Coolblue\Interview\Controller\ProductController;
+use Insurance\Calculator\Controller\TypeController;
+use Insurance\Calculator\Controller\ProductController;
 
-use Coolblue\Interview\Core\Router;
+use Insurance\Calculator\Core\Router;
 
-use Coolblue\Interview\Database\MySql;
-use Coolblue\Interview\Entity\ProductEntity;
-use Coolblue\Interview\Entity\ProductTypeEntity;
-use Coolblue\Interview\Repository\ProductRepository;
-use Coolblue\Interview\Repository\TypeRepository;
+use Insurance\Calculator\Database\MySql;
+use Insurance\Calculator\Entity\ProductEntity;
+use Insurance\Calculator\Entity\ProductTypeEntity;
+use Insurance\Calculator\Repository\ProductRepository;
+use Insurance\Calculator\Repository\TypeRepository;
 
 $request = $_SERVER['REQUEST_URI'];
 

@@ -1,11 +1,11 @@
 <?php
 
-namespace Coolblue\Interview\Repository;
+namespace Insurance\Calculator\Repository;
 
-use Coolblue\Interview\Database\Interface\DatabaseInterface;
-use Coolblue\Interview\Entity\ProductTypeEntity;
+use Insurance\Calculator\Database\Interface\DatabaseInterface;
+use Insurance\Calculator\Entity\ProductTypeEntity;
 use Exception;
-use Coolblue\Interview\Repository\Interface\TypeRepositoryInterface;
+use Insurance\Calculator\Repository\Interface\TypeRepositoryInterface;
 
 class TypeRepository
 {

@@ -1,10 +1,10 @@
 <?php
 
-namespace Coolblue\Interview\Test\Controller;
+namespace Insurance\Calculator\Test\Controller;
 
-use Coolblue\Interview\Controller\ProductController;
-use Coolblue\Interview\Entity\ProductEntity;
-use Coolblue\Interview\Repository\ProductRepository;
+use Insurance\Calculator\Controller\ProductController;
+use Insurance\Calculator\Entity\ProductEntity;
+use Insurance\Calculator\Repository\ProductRepository;
 use PHPUnit\Framework\MockObject\Exception;
 use PHPUnit\Framework\TestCase;
 

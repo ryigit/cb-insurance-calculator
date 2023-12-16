@@ -1,6 +1,6 @@
 <?php
 
-namespace Coolblue\Interview\Database\Interface;
+namespace Insurance\Calculator\Database\Interface;
 
 use PDOStatement;
 

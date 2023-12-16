@@ -1,8 +1,10 @@
-# Coolblue interview
+# Insurance Calculator
 ## Rahmetullah Yiğit
 
-In this codebase I tried to build the assignment.
+This is a sample project I built for another Job application a year ago.
+Since done in a limited time, this is not one of my best works.
 
+This basically calculates insurance fee for a product according to given rules.
 ## Running Application:
 
 Application requires PHP8 or higher, and need PDO and pdo-mysql extensions.

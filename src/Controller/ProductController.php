@@ -1,9 +1,9 @@
 <?php
 
-namespace Coolblue\Interview\Controller;
+namespace Insurance\Calculator\Controller;
 
 use Exception;
-use Coolblue\Interview\Repository\ProductRepository;
+use Insurance\Calculator\Repository\ProductRepository;
 
 class ProductController
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Coolblue\Interview\Entity;
+namespace Insurance\Calculator\Entity;
 
 class ProductEntity extends BaseEntity
 {

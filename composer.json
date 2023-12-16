@@ -1,12 +1,12 @@
 {
     "autoload": {
         "psr-4": {
-            "Coolblue\\Interview\\": "src/"
+            "Insurance\\Calculator\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Coolblue\\Interview\\Test\\": "tests/"
+            "Insurance\\Calculator\\Test\\": "tests/"
         }
     },
     "require": {

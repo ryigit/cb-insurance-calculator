@@ -1,9 +1,9 @@
 <?php
 
-namespace Coolblue\Interview\Test\Controller;
+namespace Insurance\Calculator\Test\Controller;
 
-use Coolblue\Interview\Controller\TypeController;
-use Coolblue\Interview\Repository\TypeRepository;
+use Insurance\Calculator\Controller\TypeController;
+use Insurance\Calculator\Repository\TypeRepository;
 use PHPUnit\Framework\MockObject\Exception;
 use PHPUnit\Framework\TestCase;
 

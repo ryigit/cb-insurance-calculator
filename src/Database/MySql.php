@@ -1,17 +1,17 @@
 <?php
 
-namespace Coolblue\Interview\Database;
+namespace Insurance\Calculator\Database;
 
 use Exception;
 use PDO;
 use PDOStatement;
 
-use Coolblue\Interview\Database\Interface\DatabaseInterface;
+use Insurance\Calculator\Database\Interface\DatabaseInterface;
 
 const DB_HOST = 'interview_mysql';
 const DB_USERNAME = 'root';
 const DB_PASSWORD = 'root';
-const DB_DATABASE_NAME = 'coolblue';
+const DB_DATABASE_NAME = 'products';
 
 class MySql implements DatabaseInterface
 {

@@ -3,7 +3,7 @@
 --
 -- https://tableplus.com/
 --
--- Database: coolblue
+-- Database: products
 -- Generation Time: 2023-08-08 00:27:19.1450
 -- -------------------------------------------------------------
 

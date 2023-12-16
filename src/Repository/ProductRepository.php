@@ -1,8 +1,8 @@
 <?php
 
-namespace Coolblue\Interview\Repository;
+namespace Insurance\Calculator\Repository;
 
-use Coolblue\Interview\Entity\ProductEntity;
+use Insurance\Calculator\Entity\ProductEntity;
 use Exception;
 
 class ProductRepository

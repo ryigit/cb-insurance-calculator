@@ -1,8 +1,8 @@
 <?php
 
-namespace Coolblue\Interview\Controller;
+namespace Insurance\Calculator\Controller;
 
-use Coolblue\Interview\Repository\TypeRepository;
+use Insurance\Calculator\Repository\TypeRepository;
 
 class TypeController
 {

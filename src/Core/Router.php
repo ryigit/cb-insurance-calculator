@@ -1,6 +1,6 @@
 <?php
 
-namespace Coolblue\Interview\Core;
+namespace Insurance\Calculator\Core;
 
 use Closure;
 use Exception;

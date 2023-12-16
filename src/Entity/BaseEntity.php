@@ -1,8 +1,8 @@
 <?php
 
-namespace Coolblue\Interview\Entity;
+namespace Insurance\Calculator\Entity;
 
-use Coolblue\Interview\Database\Interface\DatabaseInterface;
+use Insurance\Calculator\Database\Interface\DatabaseInterface;
 
 abstract class BaseEntity
 {
