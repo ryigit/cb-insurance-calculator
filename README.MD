@@ -1,8 +1,10 @@
 # Insurance Calculator
 ## Rahmetullah Yiğit
 
-This is a sample project I built for another Job application a year ago.
-Since done in a limited time, this is not one of my best works.
+This is a sample project I built for a Job application a year ago.
+Since done in a limited time, some features is missing.
+
+This is a pure PHP application, only dependency is for unit tests.
 
 This basically calculates insurance fee for a product according to given rules.
 ## Running Application:
@@ -13,9 +15,9 @@ First, install dependencies via Composer. Main dependency is PHPUnit for tests.
 
 Then, just like the example codebase this comes with a docker-compose setup. Provided you have docker installed, start the app with `docker-compose up`, after which you can access the "application" via `http://localhost:8080`.
 
-Database schema has been provided at the *etc* folder
+Database schema has been provided in the *etc* folder
 
-There are 3 routes:
+There are 3 routes to check:
 
 Product Details: http://localhost:8080/product/572770
 
@@ -29,7 +31,7 @@ Tests depends on PHPUnit and dependencies can be installed via composer.
 
 ## Further Improvements:
 
-To limit myself to 4 hours, I leave it at this point. If I continue improving this I would focus on:
+These are the next steps I plan to implement:
 
 - Better Error Handling
 - Better handling of the response header and codes.
